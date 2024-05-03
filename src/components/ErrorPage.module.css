@@ -1,0 +1,14 @@
+.error{
+    text-align: center;
+}
+
+.header{
+    color: rgb(171, 7, 7);
+    font-size: 3rem;
+}
+
+.para{
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
